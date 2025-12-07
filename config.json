@@ -1,0 +1,15 @@
+{
+  "fixed": "D:\\Multimodal mini project\\CT.png",
+  "moving": "D:\\Multimodal mini project\\MRI.jpg",
+  "fixed_mask": null,
+  "moving_mask": null,
+  "outdir": "outputs",
+  "target_spacing": "1,1,1",
+  "no_hist_match": false,
+  "fixed_series_uid": null,
+  "moving_series_uid": null,
+  "show": true,
+  "force_size_2d": 768,
+  "crop_2d_to_moving": true,
+  "overlay_cmap": "jet"
+}
